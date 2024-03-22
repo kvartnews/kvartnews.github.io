@@ -9,7 +9,9 @@ div {
     height: 1000px;
 }
 
-div p {
-    margin: 0px;
+div h1 {
     color: #1AFD31;
+    text-align: center;
+    margin: 0px;
+    padding-top: 50px;
 }
