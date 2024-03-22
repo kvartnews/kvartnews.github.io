@@ -5,11 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>kvartnews</title>
-    <title>shebo je najveci kralj</title>
+   
 </head>
 <body>
     <div>
         <p>Kvart News</p>
+        <p>Shebo je najveci kralj na svijetu</p>
     </div>
 </body>
 </html>
