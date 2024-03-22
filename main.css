@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-color: black;
+    margin: 0px;
+    width: auto;
+    height: 1000px;
+}
+
+div p {
+    margin: 0px;
+    color: lightgreen;
+}
